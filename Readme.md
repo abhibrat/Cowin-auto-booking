@@ -1,7 +1,7 @@
 ## Steps to use
 1. Update pincodes,age,district_id,beneficiaries,vaccine & vaccine_date. 
 2. Login to https://selfregistration.cowin.gov.in/
-3.  3. Right Click on the website
+3. Right Click on the website
 4. Click on Inspect
 5. Switch to the Console Tab on the recently opened Inspect window
 6. Copy paste the contents of this entire file - Autobook.js
